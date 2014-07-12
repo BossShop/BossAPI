@@ -6,6 +6,7 @@
 	<version>1.0.1</version>
 	<name>BossAPI</name>
 	<build>
+			<finalName>BossAPI</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
