@@ -1,0 +1,6 @@
+name: BossAPI
+version: 1.0.0
+description: Handles Points Plugins, Configs, Text formatting and Player Storage.
+author: Black_ixx
+website: http://felix.neuby.de
+main: org.black_ixx.bossapi.BossAPI

@@ -1,0 +1,8 @@
+v1.0.1
+
+*[CHANGE] Changed the name of the "addPluginObject" method in "setPluginObject" because you can only add one object per Plugin
+
+
+v1.0.0:
+
+*Release
