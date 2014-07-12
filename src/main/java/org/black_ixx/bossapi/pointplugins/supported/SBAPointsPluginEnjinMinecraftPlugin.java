@@ -60,7 +60,7 @@ public class SBAPointsPluginEnjinMinecraftPlugin extends SBAPointsPluginSupporte
 
 	@Override
 	public boolean load() {
-		Plugin plugin= Bukkit.getServer().getPluginManager().getPlugin("Enjin Minecraft Plugin");	
+		Plugin plugin= Bukkit.getServer().getPluginManager().getPlugin("EnjinMinecraftPlugin");	
 		if (plugin!=null) {
 			emp = (EnjinMinecraftPlugin) plugin;
 			return true;
